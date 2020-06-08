@@ -1,0 +1,3 @@
+[submodule "lib/meultronix-abstraction"]
+	path = lib/meultronix-abstraction
+	url = git@github.com:bmeulmeester/meultronix-abstraction.git
