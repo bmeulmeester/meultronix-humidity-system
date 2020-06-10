@@ -1,6 +1,6 @@
-# Meultronix Wireless Ventilation System
+# Meultronix Humidity System
 
-Not exactly wireless, but controlling it could be.
+An ESP32-based system that measures relative air humidity and room temperature to enable (and possibly throttle) ventilators and room ambience controllers. Mostly used in bathroom applications.
 
 
 
